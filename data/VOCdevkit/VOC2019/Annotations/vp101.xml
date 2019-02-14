@@ -1,0 +1,26 @@
+<annotation>
+	<folder>VP</folder>
+	<filename>vp101.jpg</filename>
+	<path>C:/Users/Dream/Documents/Computer Vision/VP/vp101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vada pav</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>21</ymin>
+			<xmax>301</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>
